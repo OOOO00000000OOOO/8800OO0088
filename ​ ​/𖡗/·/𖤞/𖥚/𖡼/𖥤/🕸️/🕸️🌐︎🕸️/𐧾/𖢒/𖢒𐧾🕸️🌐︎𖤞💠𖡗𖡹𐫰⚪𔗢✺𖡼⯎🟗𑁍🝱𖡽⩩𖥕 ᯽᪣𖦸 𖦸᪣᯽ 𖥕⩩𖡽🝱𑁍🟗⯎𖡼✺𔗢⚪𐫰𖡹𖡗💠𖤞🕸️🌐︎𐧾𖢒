@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "exportedAt": "2026-09-10T11:50:46.271Z",
+  "windows": [
+    {
+      "id": 1,
+      "title": "Git Fox Tab — Settings — Nightly",
+      "incognito": false,
+      "type": "normal",
+      "state": "maximized",
+      "tabs": [
+        {
+          "id": 2,
+          "title": "OneTab",
+          "url": "moz-extension://27f6f2c6-c3ed-450c-a1f3-7ebc9e3f7cd5/onetab.html",
+          "index": 0,
+          "pinned": true,
+          "active": false,
+          "groupId": null,
+          "cookieStoreId": "firefox-default",
+          "favIconUrl": "data:image/png;base64,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"
+        },
+        {
+          "id": 1,
+          "title": "Add-ons Manager",
+          "url": "about:addons",
+          "index": 1,
+          "pinned": false,
+          "active": false,
+          "groupId": null,
+          "cookieStoreId": "firefox-default",
+          "favIconUrl": "chrome://mozapps/skin/extensions/extension.svg"
+        },
+        {
+          "id": 4,
+          "title": "Git Fox Tab version history - 4 versions – Add-ons for Firefox (en-US)",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/git-fox-tab/versions/?utm_source=chatgpt.com",
+          "index": 2,
+          "pinned": false,
+          "active": false,
+          "groupId": null,
+          "cookieStoreId": "firefox-default",
+          "favIconUrl": "data:image/png;base64,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"
+        },
+        {
+          "id": 6,
+          "title": "Git Fox Tab — Settings",
+          "url": "moz-extension://c40cd797-1327-49da-b585-6134769e3b9e/options/options.html",
+          "index": 3,
+          "pinned": false,
+          "active": true,
+          "groupId": null,
+          "cookieStoreId": "firefox-default",
+          "favIconUrl": null
+        }
+      ]
+    }
+  ],
+  "groups": [],
+  "containers": [
+    {
+      "cookieStoreId": "firefox-container-1",
+      "name": "Personal",
+      "color": "blue",
+      "icon": "fingerprint"
+    },
+    {
+      "cookieStoreId": "firefox-container-2",
+      "name": "Work",
+      "color": "orange",
+      "icon": "briefcase"
+    },
+    {
+      "cookieStoreId": "firefox-container-3",
+      "name": "Banking",
+      "color": "green",
+      "icon": "dollar"
+    },
+    {
+      "cookieStoreId": "firefox-container-4",
+      "name": "Shopping",
+      "color": "pink",
+      "icon": "cart"
+    }
+  ]
+}
